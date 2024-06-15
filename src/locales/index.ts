@@ -24,6 +24,7 @@ export const DEFAULT_LOCALE: LocaleInterface = {
   message: {
     nl,
     zhHans,
+    de,
     en
   }
 }
