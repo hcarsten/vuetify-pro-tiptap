@@ -1,6 +1,6 @@
 # Vuetify Pro Tiptap
 
-Das ist ein Fork für Deutsche Locales; da kommt dann später noch ein Beispiel auf Deutsch dazu.
+## Das ist ein Fork für Deutsche Locales; da kommt dann später noch ein Beispiel auf Deutsch dazu.
 
 A WYSIWYG rich-text editor using [tiptap](https://github.com/scrumpy/tiptap) and [vuetify](https://github.com/vuetifyjs/vuetify) for Vue.js
 
