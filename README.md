@@ -1,5 +1,7 @@
 # Vuetify Pro Tiptap
 
+Das ist ein Fork für Deutsche Locales; da kommt dann später noch ein Beispiel auf Deutsch dazu.
+
 A WYSIWYG rich-text editor using [tiptap](https://github.com/scrumpy/tiptap) and [vuetify](https://github.com/vuetifyjs/vuetify) for Vue.js
 
 [![download](https://img.shields.io/npm/dm/vuetify-pro-tiptap.svg)](https://npmcharts.com/compare/vuetify-pro-tiptap?minimal=true)
@@ -10,7 +12,7 @@ A WYSIWYG rich-text editor using [tiptap](https://github.com/scrumpy/tiptap) and
 [![semantic-release: vue](https://img.shields.io/badge/semantic--release-vue-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 
 English | [中文](./README.zh-CN.md)
-Das ist ein Fork für Deutsche Locales; da kommt dann später noch ein Beispiel auf Deutsch dazu.
+
 
 ## Demo
 👉[https://yikoyu.github.io/vuetify-pro-tiptap/](https://yikoyu.github.io/vuetify-pro-tiptap/)
